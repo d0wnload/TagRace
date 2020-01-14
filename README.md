@@ -1,8 +1,6 @@
 # TagRace
 
-Welcome to the Git of TagRace (Android),
-
-the interactive QR-Code based 'game'.
+Welcome to the Git of TagRace (Android), the interactive QR-Code based 'game'.
 
 In fact it will just be a scanner with public key en/decryption and a history,
 
